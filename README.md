@@ -7,5 +7,5 @@ Data Description:
 
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
-NOTE: This project was a part of datacamp's career track data science with python.
+NOTE: This project was a part of datacamp's career track data science with python and it uses pandas foundations and data visualization with matplotlib and seaborn knowledge.
 
